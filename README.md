@@ -1,7 +1,7 @@
 # PHP
 # PHP Projects, Lessons, and Assignments
 
-Welcome to my **PHP** repository! This repository serves as a hub for my PHP learning journey, containing projects, lessons, exercises, and assignments. Whether you're a learner, developer, or enthusiast, feel free to explore, learn, or contribute!
+Welcome to my **PHP** repository! This repository serves my PHP learning journey, containing projects, lessons, exercises, and assignments. Whether you're a learner, developer, or enthusiast, feel free to explore, learn, or contribute!
 
 ---
 
