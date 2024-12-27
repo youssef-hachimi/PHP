@@ -33,20 +33,20 @@
 
 
 <?php
-// echo $_GET["username"] ."<br>"; 
-// echo $_GET["password"] ."<br>"; 
+echo $_GET["username"] ."<br>"; 
+echo $_GET["password"] ."<br>"; 
 
-// echo $_POST["username"] ."<br>"; 
-// echo $_POST["password"] ."<br>"; 
-// $item = "pizza";
-// $price = 3.50;
-// $quantity = $_POST["quantity"];
-// $total = null;
+echo $_POST["username"] ."<br>"; 
+echo $_POST["password"] ."<br>"; 
+$item = "pizza";
+$price = 3.50;
+$quantity = $_POST["quantity"];
+$total = null;
 
-// $total = $quantity * $price;
+$total = $quantity * $price;
 
-// echo "You have orderd $quantity x $item /s ";
-// echo "Your total price is : $total $";
+echo "You have orderd $quantity x $item /s ";
+echo "Your total price is : $total $";
 
 
 //math functions
